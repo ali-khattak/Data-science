@@ -1,6 +1,12 @@
-This code performs an analysis of COVID-19 data, focusing on its impact on public health and the economy.
-It first loads and preprocesses the dataset, handling missing values and converting date columns to datetime format. 
-Then, it visualizes the data through histograms, time series plots, scatter plots, and correlation matrices to explore relationships between variables. 
-Additionally, it calculates daily new cases and rolling averages, and conducts hypothesis testing to examine the economic impact of the pandemic. 
-Finally, it applies linear regression to predict COVID-19 cases based on economic indicators and evaluates the model's performance. 
-The key findings highlight correlations between economic indicators and COVID-19 cases, time series patterns, and the pandemic's economic impact, providing insights for decision-makers.
+### COVID-19 Data Analysis and Stock Market Prediction
+
+This repository contains Python scripts for analyzing COVID-19 data and predicting stock market trends. The COVID-19 analysis focuses on exploring the pandemic's impact on public health and the economy. It includes preprocessing the dataset, visualizing data through various plots, calculating daily new cases and rolling averages, and conducting hypothesis testing. Additionally, linear regression is applied to predict COVID-19 cases based on economic indicators.
+
+
+
+The stock market prediction part of the project involves gathering live data from different stock markets of several countries. The data includes information on the top 30% of stock market companies from each country. The Python scripts preprocess the data, perform exploratory data analysis, and use linear regression to predict stock market trends based on historical data.
+
+
+
+
+Together, these analyses provide valuable insights into the relationship between economic indicators and COVID-19 cases, as well as trends in the global stock market. The project aims to assist decision-makers in understanding and navigating the complexities of public health and economic challenges during the pandemic.
